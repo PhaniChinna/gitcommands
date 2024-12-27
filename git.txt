@@ -1,0 +1,51 @@
+1.  git init
+ 
+ 
+2. git remote add origin (CREATE REPOSITORY AND COPY URL FROM THE GIT HUB) 
+
+
+3.  git add -A 
+
+
+4.  git commit -m "first commit" (WRITE MESSAGE OF OUR ERROR) 
+
+
+5.  git branch -M main
+
+
+6.  git push -u origin main 
+
+
+7.  git UserName : GIT USER NAME 
+
+
+8.  PASSWORD: GIT ACCESS TOKEN
+
+
+9.  git config --global user.email "YOUR GIT EMAIL"
+
+
+10. git config --global user.name "YOUR GIT USER NAME"
+
+
+11. git clone <repository-link> CLONE REPO 
+
+
+12. git help   TAKE HELP FROM GIT
+
+
+13. git config  CONFIGURATIONS LIKE NAME AND EMAIL
+
+
+14. git branch CURRENT BRANCHES
+
+
+15.git tag LIST OF AVAILABLE TAG'S
+
+
+16.git push –tags PUSH TAGS TO REPO
+
+MAX 12 - 16 COMMANDS WE WILL USE RARE CASE 
+
+
+
